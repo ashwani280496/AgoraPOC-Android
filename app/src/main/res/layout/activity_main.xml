@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:background="@drawable/main_background"
+    android:orientation="vertical"
+    tools:context=".activities.MainActivity">
+    <RelativeLayout
+
+        android:id="@+id/content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/backg">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/user_name_tf"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:layout_margin="30dp"
+            android:outlineAmbientShadowColor="@color/blue"
+            android:textSize="@dimen/text_size_normal"
+            android:hint="Enter User name"
+            android:textScaleX="@dimen/text_scale_x"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:background="@drawable/backg"
+            android:id="@+id/login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:layout_below="@id/user_name_tf"
+            android:layout_marginVertical="20dp"
+            android:layout_marginHorizontal="40dp"
+            android:text="Login"
+            android:onClick="onStartCall"/>
+
+    </RelativeLayout>
+</LinearLayout>

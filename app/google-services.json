@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "848371882348",
+    "firebase_url": "https://o-nest.firebaseio.com",
+    "project_id": "o-nest",
+    "storage_bucket": "o-nest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848371882348:android:d451615502f1c98f75fb49",
+        "android_client_info": {
+          "package_name": "com.nestap.gateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848371882348-46ouhi2n2f5pa9mdihenrnq5mt0b6tbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nestap.gateapp",
+            "certificate_hash": "b19e39b2c45da6af6e04651348341f1194b0a5ec"
+          }
+        },
+        {
+          "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtYONJtFel8Z8l16E4grWvdUXNFT7QEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848371882348-r9715v1i7b57pglhh41rsat9bf3ju7bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nestapp.resident"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848371882348:android:45dd51cb309b512b75fb49",
+        "android_client_info": {
+          "package_name": "com.nestap.nestap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848371882348-umrlq6lvldqtnsnfrhqeh3r8u2mc3r58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nestap.nestap",
+            "certificate_hash": "0d3596cea0bc480d832d29139140a594aab5b139"
+          }
+        },
+        {
+          "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtYONJtFel8Z8l16E4grWvdUXNFT7QEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848371882348-r9715v1i7b57pglhh41rsat9bf3ju7bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nestapp.resident"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848371882348:android:12f0d1f2182f382c75fb49",
+        "android_client_info": {
+          "package_name": "com.nestap.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtYONJtFel8Z8l16E4grWvdUXNFT7QEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848371882348-r9715v1i7b57pglhh41rsat9bf3ju7bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nestapp.resident"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848371882348:android:b75ceb8a1577fb2d75fb49",
+        "android_client_info": {
+          "package_name": "com.onest.digiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848371882348-6qgdmnjedfkuft5k1b5bke595f9r6u90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onest.digiapp",
+            "certificate_hash": "e84556fc1dbcbf964d8fa5da157c3fa64f3fdef8"
+          }
+        },
+        {
+          "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtYONJtFel8Z8l16E4grWvdUXNFT7QEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848371882348-r9715v1i7b57pglhh41rsat9bf3ju7bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nestapp.resident"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848371882348:android:7838a734dd49aa4b75fb49",
+        "android_client_info": {
+          "package_name": "io.agora.openduo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtYONJtFel8Z8l16E4grWvdUXNFT7QEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848371882348-m4b3p44133gj2lmpatj8j6kkgv1fs6qr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848371882348-r9715v1i7b57pglhh41rsat9bf3ju7bu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nestapp.resident"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
